@@ -114,7 +114,7 @@ Notes-App/
 
 ## Author
 
-**Aman Rai**
-Beginner Web Developer (JavaScript-focused)
-Tokyo, Japan
+**Aman Rai**  
+Beginner Web Developer (JavaScript-focused)  
+Tokyo, Japan  
 Languages: English, Hindi, Nepali, Japanese (N3)
