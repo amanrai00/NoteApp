@@ -100,8 +100,7 @@ Notes-App/
 
 ## デモ
 
-[🔗 デモを見る](https://YOUR-DEPLOYMENT-LINK)
-※ ご自身の Netlify / Vercel の URL に置き換えてください。
+[🔗 デモを見る](noteapp1630.netlify.app)
 
 ---
 

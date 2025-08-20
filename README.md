@@ -100,8 +100,7 @@ Notes-App/
 
 ## Live Demo
 
-[🔗 View Demo](https://YOUR-DEPLOYMENT-LINK)
-*(Replace with your Netlify/Vercel URL)*
+[🔗 View Demo](noteapp1630.netlify.app)
 
 ---
 
