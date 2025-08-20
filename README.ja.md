@@ -100,7 +100,7 @@ Notes-App/
 
 ## デモ
 
-[🔗 デモを見る](noteapp1630.netlify.app)
+[🔗 デモを見る](https://noteapp1630.netlify.app/)
 
 ---
 

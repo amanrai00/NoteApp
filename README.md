@@ -100,7 +100,7 @@ Notes-App/
 
 ## Live Demo
 
-[🔗 View Demo](noteapp1630.netlify.app)
+[🔗 View Demo](https://noteapp1630.netlify.app/)
 
 ---
 
